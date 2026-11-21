@@ -1,6 +1,6 @@
 # 🎬 Python YouTube Video Downloader
 
-🚀 A simple and lightweight Python application that allows users to download YouTube videos directly using a video URL. Built with Python and the powerful `yt-dlp` library.
+A simple and lightweight Python application that allows users to download YouTube videos in the best quality available directly using a video URL. Built with Python and the powerful `yt-dlp` library.
 
 ## 📌 About the Project
 
