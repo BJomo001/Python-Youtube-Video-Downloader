@@ -39,6 +39,16 @@ Python-Youtube-Video-Downloader/
 
 Follow these steps to set up and run the project on your local machine.
 
+### Prerequisites
+
+You will need:
+
+Python & Git installed on your computer.
+
+A code editor such as Visual Studio Code.
+
+## Installation
+
 ### 1️⃣ Clone the Repository
 
 Open your terminal or command prompt and run:
