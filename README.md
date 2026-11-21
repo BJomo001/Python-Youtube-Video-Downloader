@@ -43,7 +43,11 @@ Follow these steps to set up and run the project on your local machine.
 
 You will need:
 
-Python & Git installed on your computer.
+Python & Git installed on your computer. You might also need FFmpeg an (open-source command-line tool used to process, convert, and manipulate audio and video files). You can download it using PowerShell or a Command Prompt, using this command.
+
+```bash
+winget install Gyan.FFmpeg
+```
 
 A code editor such as Visual Studio Code.
 
