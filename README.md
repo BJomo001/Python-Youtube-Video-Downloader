@@ -126,6 +126,14 @@ Through this project, you will explore:
 - 🎞️ Some formats may require FFmpeg for merging separate video and audio streams.
 - 💾 Downloaded files are saved according to the downloader's output settings.
 
+## 🛡️ Legal and Ethical Use
+
+This project is intended for educational purposes and authorized personal use.
+
+Users are responsible for ensuring that their downloads comply with applicable copyright laws, YouTube's Terms of Service, and the permissions of the content owners.
+
+Only download content that you own, have permission to download, or are otherwise legally permitted to access.
+
 ## 🚀 Future Improvements
 
 Potential enhancements include:
@@ -138,13 +146,7 @@ Potential enhancements include:
 - 🖥️ Developing a graphical user interface (GUI).
 - 📥 Supporting playlist downloads.
 
-## 🛡️ Legal and Ethical Use
 
-This project is intended for educational purposes and authorized personal use.
-
-Users are responsible for ensuring that their downloads comply with applicable copyright laws, YouTube's Terms of Service, and the permissions of the content owners.
-
-Only download content that you own, have permission to download, or are otherwise legally permitted to access.
 
 ## 📜 License
 
