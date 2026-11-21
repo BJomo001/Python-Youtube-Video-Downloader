@@ -146,7 +146,21 @@ Potential enhancements include:
 - 🖥️ Developing a graphical user interface (GUI).
 - 📥 Supporting playlist downloads.
 
+## 🤝 Contributing
 
+Contributions, suggestions, and feedback are welcome!
+
+To contribute:
+
+Fork this repository.
+
+Create a new branch for your changes.
+
+Commit your improvements.
+
+Push your branch to GitHub.
+
+Open a pull request describing your changes.
 
 ## 📜 License
 
